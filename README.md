@@ -60,3 +60,7 @@
 
 ![Картинка](/resources/misc1.png)
 ![Картинка](/resources/misc4.png)
+
+Кроме того, в этой программе можно создавать видео (Spin Movie), здесь оно сконвертировано в GIF:
+
+![Картинка](/resources/animation.gif)
