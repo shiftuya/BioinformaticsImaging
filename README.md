@@ -12,9 +12,9 @@
 
 ## Backbone
 ### Изображение
-![Wireframe](/resources/wireframe0.png)
+![Backbone](/resources/backbone0.png)
 ### Получение
-![Инструкция](/resources/wireframe.png)
+![Инструкция](/resources/backbone.png)
 
 ## Spacefill
 ### Изображение
