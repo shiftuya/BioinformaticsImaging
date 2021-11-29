@@ -54,3 +54,13 @@
 
 ![Инструкция](/resources/selectioncolor.png)
 
+# Красивые картинки для публикации
+
+![Картинка](/resources/misc0.png)
+![Картинка](/resources/misc1.png)
+![Картинка](/resources/misc2.png)
+
+## Разноцветные
+
+![Картинка](/resources/misc3.png)
+![Картинка](/resources/misc4.png)
