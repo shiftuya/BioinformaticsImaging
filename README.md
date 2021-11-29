@@ -1,5 +1,7 @@
 # Визуализация структуры белка
 
+Программа: UCSF ChimeraX
+
 Использованная структура: [7B9C](https://www.rcsb.org/structure/7B9C).
 
 # Типы визуализации
@@ -56,11 +58,5 @@
 
 # Красивые картинки для публикации
 
-![Картинка](/resources/misc0.png)
 ![Картинка](/resources/misc1.png)
-![Картинка](/resources/misc2.png)
-
-## Разноцветные
-
-![Картинка](/resources/misc3.png)
 ![Картинка](/resources/misc4.png)
